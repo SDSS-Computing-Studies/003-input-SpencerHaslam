@@ -15,6 +15,6 @@ import math
 radius = input("Enter radius")
 x = int(radius)
 cube = pow(x, 3)
-final = 4 / 3 * math.pi * cube
-y = str(final)
+volume = 4 / 3 * math.pi * cube
+y = str(volume)
 print("the volume is " + y)
