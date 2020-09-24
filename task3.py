@@ -12,3 +12,14 @@
 # solution for x
 #
 # test case: 5, 1, 11 should give x = 2
+import math
+a = input("Enter first variable")
+b = input("Enter second variable")
+c = input("Enter third variable")
+A = int(a)
+B = int(b)
+C = int(c)
+sub = C - B
+Sol = sub / A  
+sol = str(Sol)
+print("x = " + sol)
