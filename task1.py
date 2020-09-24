@@ -12,4 +12,4 @@
 mame = input("Enter your name")
 mail = input("Enter your email")
 print("\n\n\n\n\n\n\n\n")
-print("Your name is " + mame + ", and your email is" + mail)
+print("Your name is " + mame + ", and your email is " + mail ".")
